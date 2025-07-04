@@ -1,1 +1,2 @@
-Convertidor de Monedas en Java
+# Convertidor
+Conversión de Divisas en Java
